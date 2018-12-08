@@ -28,7 +28,7 @@
   "homepage": "https://github.com/adcpm/sc2-sdk#readme",
   "dependencies": {
     "cross-fetch": "^1.1.1",
-    "debug": "^2.2.0"
+    "debug": "^2.6.9"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
