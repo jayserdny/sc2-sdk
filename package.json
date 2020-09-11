@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/adcpm/sc2-sdk#readme",
   "dependencies": {
-    "cross-fetch": "^1.1.1",
+    "cross-fetch": "^3.0.6",
     "debug": "^2.2.0"
   },
   "devDependencies": {
